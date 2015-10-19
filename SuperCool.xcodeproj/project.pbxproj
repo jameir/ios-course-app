@@ -12,6 +12,8 @@
 		293501711BC46D7D00E5FDEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2935016F1BC46D7D00E5FDEB /* Main.storyboard */; };
 		293501731BC46D7D00E5FDEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 293501721BC46D7D00E5FDEB /* Assets.xcassets */; };
 		293501761BC46D7D00E5FDEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 293501741BC46D7D00E5FDEB /* LaunchScreen.storyboard */; };
+		2935017E1BC46F7300E5FDEB /* Boom-App.png in Resources */ = {isa = PBXBuildFile; fileRef = 2935017D1BC46F7200E5FDEB /* Boom-App.png */; settings = {ASSET_TAGS = (); }; };
+		29CDC0421BC474DA00BB54AC /* 11239-NN9XC2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29CDC0411BC474DA00BB54AC /* 11239-NN9XC2.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		293501721BC46D7D00E5FDEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		293501751BC46D7D00E5FDEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		293501771BC46D7D00E5FDEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2935017D1BC46F7200E5FDEB /* Boom-App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Boom-App.png"; sourceTree = "<group>"; };
+		29CDC0411BC474DA00BB54AC /* 11239-NN9XC2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "11239-NN9XC2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 			children = (
 				2935016A1BC46D7D00E5FDEB /* SuperCool */,
 				293501691BC46D7D00E5FDEB /* Products */,
+				2935017D1BC46F7200E5FDEB /* Boom-App.png */,
+				29CDC0411BC474DA00BB54AC /* 11239-NN9XC2.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,6 +130,8 @@
 			files = (
 				293501761BC46D7D00E5FDEB /* LaunchScreen.storyboard in Resources */,
 				293501731BC46D7D00E5FDEB /* Assets.xcassets in Resources */,
+				29CDC0421BC474DA00BB54AC /* 11239-NN9XC2.jpg in Resources */,
+				2935017E1BC46F7300E5FDEB /* Boom-App.png in Resources */,
 				293501711BC46D7D00E5FDEB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,6 +292,7 @@
 				2935017C1BC46D7D00E5FDEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
